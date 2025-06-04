@@ -48,5 +48,5 @@ Este repositorio contiene el análisis realizado sobre el problema de evasión (
 
 ---
 
-**Autor:** [Tu nombre]  
+**Autor:** Oscar D. Caceres  
 **Fecha:** Junio 2025
